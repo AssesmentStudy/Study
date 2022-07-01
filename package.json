@@ -1,0 +1,26 @@
+{
+  "name": "data-structures-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "merge": "node util/merge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodesmithLLC/data-structures-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodesmithLLC/data-structures-assessment/issues"
+  },
+  "homepage": "https://github.com/CodesmithLLC/data-structures-assessment",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  }
+}
